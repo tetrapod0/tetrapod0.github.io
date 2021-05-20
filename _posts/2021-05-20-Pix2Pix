@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Pix2Pix"
+date:   2021-05-20
+excerpt: "Pix2Pix 맛보기"
+tag:
+- GAN
+- CNN
+- Pix2Pix
+comments: true
+---
+
+![example](https://user-images.githubusercontent.com/48349693/118951869-696e4780-b996-11eb-936e-2ae931b4fbb6.PNG)
+
+이전 포스트와 달리 이번에는 입력으로 이미지가 들어갑니다.
+
+위의 그림처럼 입력으로 첫번째 이미지를 주면 세번째 이미지로 출력됩니다.
+
+가운데 이미지는 실제 이미지입니다.
+
+즉, 생성자가 이미지 to 이미지 입니다.
+
+---
+
+![gen_model](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/images/gen.png?raw=1)
+
+
+
+
+
+
