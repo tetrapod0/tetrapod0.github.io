@@ -1,14 +1,14 @@
 # Site
 title:              TDAT
-bio:                'keras NN maker.'
-description:        "keras NN maker, studying deeplearning.."
+bio:                'hello'
+description:        "hello."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/tttt.png' #'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://tdat97.github.io
+url:                https://tetrapod0.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -40,7 +40,7 @@ disqus_shortname:   tdat5415
 #email:
 #twitter:            username
 #facebook:           username
-github-url:         tdat97
+github-url:         tetrapod0
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          강로-이-958a361b9
 #xing:              username
